@@ -7,6 +7,8 @@
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=yngvarrhg&show_icons=true&theme=synthwave)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngvarrhg&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologia que eu uso no meu dia 
 
 <div style="display: inline-block"><br>
@@ -25,4 +27,3 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <br>
-
