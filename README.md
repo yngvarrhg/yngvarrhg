@@ -5,7 +5,7 @@
 <div>
 <a href="https://github.com/yngvarrhg">
 <img height="250em" src="https://github-readme-stats.vercel.app/api?username=yngvarrhg&show_icons=true&theme=synthwave">
-<img height="350em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngvarrhg&layout=donut-vertical&theme=synthwave">
+<img height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngvarrhg&layout=donut-vertical&theme=synthwave">
 </div>
 
 ##
