@@ -26,5 +26,6 @@
 <a href="https://x.com/Hg_yngvarr?t=T4xyl76lySvmHw8ZpoyRpA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="https://github.com/yngvarrhg " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <a href="mailto:higorgabriel443@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-
 </div>
+
+##
